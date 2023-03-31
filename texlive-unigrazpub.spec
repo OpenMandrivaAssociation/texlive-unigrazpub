@@ -1,6 +1,6 @@
 Name:		texlive-unigrazpub
 Version:	64797
-Release:	1
+Release:	2
 Summary:	LaTeX templates for University of Graz Library Publishing Services
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/unigrazpub
