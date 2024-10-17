@@ -3,7 +3,7 @@ Version:	64797
 Release:	2
 Summary:	LaTeX templates for University of Graz Library Publishing Services
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/unigrazpub
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/unigrazpub
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/unigrazpub.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/unigrazpub.doc.r%{version}.tar.xz
